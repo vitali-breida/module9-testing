@@ -1,17 +1,9 @@
-# module8 (Routing)
+# module (Testing)
 
-- Forked from the https://github.com/vitali-breida/module7-forms
+- Forked from the https://github.com/vitali-breida/module8-rout
 - Material UI is used
-- react-routing is added
-- 404, HomePage are implemented
-- No results are by default
-- Can be verified directly from
-
-Home page
-https://nmph4.csb.app/
-
-Search (it's accessed by direct link as well)
-https://nmph4.csb.app/search/test
-
-Film details (currently works from app, there is a problem with direct link)
-https://nmph4.csb.app/film/485548
+- jest, react testing-library/react, react-test-renderer libs are added
+- Snapshot test for "Logo" component is added
+- All methods in dialogs reducer are covered
+- Added test for AddMovieDialog
+- Can be verified directly from https://gc2yb.sse.codesandbox.io/
